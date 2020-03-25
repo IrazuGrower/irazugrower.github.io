@@ -1,0 +1,36 @@
+title: "Irazu Growers"
+url: https://irazugrower.github.io
+subtitle: Autocultivo  CR
+description: Cala y sus compas te cuenta todo lo que debe saber acerca del autocultivo en Costa Rica.
+author: Cala y sus compas 
+email: irazugrower@gmail.com
+keywords: [Autocultivo ]
+itunes_categories: ["Home ; Garden"]
+
+itunes_url: http://itunes.apple.com/de/podcast/titel/id123456789
+panoptikum_url: https://panoptikum.io/podcasts/123456
+
+episodes_per_feed_page: 10
+# Date can be localized via date_de.rb plugin
+date_format: "ordinal"
+
+twitter_nick: irazugrowers
+language: en-gb
+explicit: 'yes'  # 'yes'/'no'/clean
+license: CC BY 4.0
+license_url: https://creativecommons.org/licenses/by/4.0/
+license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+## Itunes link ###########################################################
+# itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
+## Isso comments #########################################################
+use_isso: no # set to 'yes' to include isso comments form
+plugins:
+
+  - jekyll-octopod
+
+exclude: [README.md, LICENSE]
+theme: cayman
+future: false
+
+theme: jekyll-theme-cayman
