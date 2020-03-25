@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>irazu Growers</title>
+  <link href="https://irazugrowers.github.io/general_feed.xml" rel="self"/>
+  <link href="https://irazugrowers.github.io"/>
+  <updated>2020-03-23T02:32:41-06:00</updated>
+  <id>https://irazugrowers.github.io/</id>
+  <author>
+    <name>Cala y sus compas</name>
+    <email>irazugrower@gmail.com</email>
+  </author>
+
+  
+    <entry>
+      <title>Bienvenido a Irazu Growers</title>
+      <link href="https://irazugrowers.github.io/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers.html"/>
+      <updated>2020-03-21T19:08:45-06:00</updated>
+      <id>https://irazugrowers.github.io/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers</id>
+      <content type="html">&lt;p&gt;Pura vida si estas leyendo esto es porque eres parte de Irazu Growers
+Buenas Vibras&lt;/p&gt;
+
+</content>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Episode 1</title>
+      <link href="https://irazugrowers.github.io/2020/03/20/Episode-1.html"/>
+      <updated>2020-03-20T00:00:00-06:00</updated>
+      <id>https://irazugrowers.github.io/2020/03/20/Episode-1</id>
+      <content type="html">&lt;h2 id=&quot;lets-dance&quot;&gt;Lets Dance&lt;/h2&gt;
+
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://irazugrowers.github.io/episodes/ocp001.mp3&quot;},&quot;coverUrl&quot;:&quot;https://irazugrowers.github.io/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 1&quot;,&quot;subtitle&quot;:&quot;Lets Dance&quot;,&quot;url&quot;:&quot;https://irazugrowers.github.io/2020/03/20/Episode-1.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://irazugrowers.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Note&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="10690582" href="https://irazugrowers.github.io/episodes/ocp001.mp3"/>
+      
+      
+    </entry>
+  
+</feed>

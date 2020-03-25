@@ -1,0 +1,105 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>irazu Growers</title>
+    <link>https://irazugrowers.github.io</link>
+    <atom:link href="https://irazugrowers.github.io/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://irazugrowers.github.io/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://irazugrowers.github.io/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    
+    
+
+    
+    <description>Cala y sus compas te cuenta todo lo que debe saber acerca del autocultivo en Costa Rica.
+</description>
+    <lastBuildDate>Mon, 23 Mar 2020 03:29:40 -0600</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.12</generator>
+
+    <itunes:summary>Cala y sus compas te cuenta todo lo que debe saber acerca del autocultivo en Costa Rica.
+</itunes:summary>
+    <itunes:author>Cala y sus compas</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://irazugrowers.github.io/img/logo-itunes.jpg" />
+    <itunes:owner>
+      <itunes:name>Cala y sus compas</itunes:name>
+      <itunes:email>irazugrower@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>irazugrower@gmail.com (Cala y sus compas)</managingEditor>
+    <copyright>CC BY 4.0</copyright>
+    <itunes:subtitle>Autocultivo  CR</itunes:subtitle>
+    <itunes:keywords>Autocultivo</itunes:keywords>
+    <image>
+      <title>irazu Growers</title>
+      <url>https://irazugrowers.github.io/img/logo-itunes.jpg</url>
+      <link>https://irazugrowers.github.io</link>
+    </image>
+    
+    <itunes:category text="Home ; Garden" />
+    
+    
+    
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 1 - Lets Dance</title>
+            <link>https://irazugrowers.github.io/2020/03/20/Episode-1.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://irazugrowers.github.io/players/Episode-1"/>
+            <comments>https://irazugrowers.github.io/2020/03/20/Episode-1.html#disqus_thread</comments>
+            <pubDate>Fri, 20 Mar 2020 00:00:00 -0600</pubDate>
+            
+            <guid isPermaLink="false">https://irazugrowers.github.io/2020/03/20/Episode-1.html</guid>
+            <description><![CDATA[<h2 id="lets-dance">Lets Dance</h2>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="lets-dance">Lets Dance</h2>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="https://irazugrowers.github.io/episodes/ocp001.mp3" length="10690582" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Lets Dance</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cala y sus compas</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>0:01:00</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
+    
+  </channel>
+</rss>
