@@ -1,14 +1,14 @@
 {"version": "https://jsonfeed.org/version/1",
- "title": "Irazu Growers",
+ "title": "Algo más que Mota",
  "home_page_url": "https://irazu.cartuanis.com/",
  "feed_url": "https://irazu.cartuanis.com/feed.json",
- "description": "Cala y sus compas te cuenta todo lo que debe saber acerca del autocultivo en Costa Rica.",
- "user_comment": "Cala y sus compas te cuenta todo lo que debe saber acerca del autocultivo en Costa Rica.",
+ "description": "Cala y sus compas te cuento todo acerca del Cannabis en Costa Rica y el mundo .",
+ "user_comment": "Cala y sus compas te cuento todo acerca del Cannabis en Costa Rica y el mundo .",
  "icon": "https://irazu.cartuanis.com/apple-touch-icon-precomposed.png",
  "favicon": "https://irazu.cartuanis.com/favicon.ico",
  "expired": false,
  "author": {
-   "name": "Cala y sus compas",
+   "name": "Irazu Growers",
    "url": null
  },
  "items": [

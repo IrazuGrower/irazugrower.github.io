@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Irazu Growers</title>
+  <title>Algo más que Mota</title>
   <link href="https://irazu.cartuanis.com/general_feed.xml" rel="self"/>
   <link href="https://irazu.cartuanis.com"/>
-  <updated>2020-03-25T19:06:50-06:00</updated>
+  <updated>2020-03-26T22:37:50-06:00</updated>
   <id>https://irazu.cartuanis.com/</id>
   <author>
-    <name>Cala y sus compas</name>
+    <name>Irazu Growers</name>
     <email>irazugrower@gmail.com</email>
   </author>
 
@@ -49,7 +49,7 @@ Buenas Vibras&lt;/p&gt;
         
           <link rel="enclosure" 
                 type="audio/mpeg" 
-                length="10690582" 
+                length="8038" 
                 href="https://irazu.cartuanis.com/episodes/ocp001.mp3"/>    
         
       
