@@ -19,7 +19,7 @@
     
     <description>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
 </description>
-    <lastBuildDate>Thu, 26 Mar 2020 22:46:16 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 23:27:14 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -50,14 +50,14 @@
         
         
           <item>
-            <title>Episode 1 - Lets Dance</title>
+            <title>Episode 0 - Que es algo mas que Mota?</title>
             <link>https://irazu.cartuanis.com/2020/03/20/Episode-1.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://irazu.cartuanis.com/players/Episode-1"/>
             <comments>https://irazu.cartuanis.com/2020/03/20/Episode-1.html#disqus_thread</comments>
             <pubDate>Fri, 20 Mar 2020 00:00:00 -0600</pubDate>
             
             <guid isPermaLink="false">https://irazu.cartuanis.com/2020/03/20/Episode-1.html</guid>
-            <description><![CDATA[<h2 id="lets-dance">Lets Dance</h2>
+            <description><![CDATA[<h2 id="que-es-algo-mas-que-mota">Que es algo mas que Mota?</h2>
 
 
 
@@ -67,7 +67,7 @@
   <li>Note</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<h2 id="lets-dance">Lets Dance</h2>
+            <content:encoded><![CDATA[<h2 id="que-es-algo-mas-que-mota">Que es algo mas que Mota?</h2>
 
 
 
@@ -80,7 +80,7 @@
             
             <enclosure url="https://irazu.cartuanis.com/episodes/ocp001.mp3" length="8038" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Lets Dance</itunes:subtitle>
+            <itunes:subtitle>Que es algo mas que Mota?</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Cala y sus compas</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
