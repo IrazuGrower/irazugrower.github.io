@@ -19,7 +19,7 @@
     
     <description>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
 </description>
-    <lastBuildDate>Fri, 27 Mar 2020 23:16:53 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 23:30:38 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -55,12 +55,32 @@
             <pubDate>Fri, 27 Mar 2020 00:00:00 -0600</pubDate>
             
             <guid isPermaLink="false">https://irazu.cartuanis.com/2020/03/27/trailer.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[<hr />
+<h2 id="trailer">Trailer</h2>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[<hr />
+<h2 id="trailer">Trailer</h2>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+
 ]]></content:encoded>
             
-            <enclosure url="https://irazu.cartuanis.com/episodes/ocp00.mp3" length="8038" type="audio/mpeg" />
+            <enclosure url="https://irazu.cartuanis.com/episodes/ocp00.mp3" length="339382" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Trailer</itunes:subtitle>
             <itunes:summary></itunes:summary>
