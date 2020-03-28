@@ -19,7 +19,7 @@
     
     <description>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
 </description>
-    <lastBuildDate>Sat, 28 Mar 2020 15:20:43 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 15:38:29 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -81,6 +81,59 @@
             <enclosure url="https://irazu.cartuanis.com/episodes/ocp001.mp3" length="10690582" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Lets Dance</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cala y sus compas</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>0:01:00</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 0 - prueba</title>
+            <link>https://irazu.cartuanis.com/2020/03/20/Episode-0.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://irazu.cartuanis.com/players/Episode-0"/>
+            <comments>https://irazu.cartuanis.com/2020/03/20/Episode-0.html#disqus_thread</comments>
+            <pubDate>Fri, 20 Mar 2020 00:00:00 -0600</pubDate>
+            
+            <guid isPermaLink="false">https://irazu.cartuanis.com/2020/03/20/Episode-0.html</guid>
+            <description><![CDATA[<h2 id="prueba">prueba</h2>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="prueba">prueba</h2>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="https://irazu.cartuanis.com/episodes/lov.mp3" length="9599006" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>prueba</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Cala y sus compas</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
