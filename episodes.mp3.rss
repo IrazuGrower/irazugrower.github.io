@@ -19,7 +19,7 @@
     
     <description>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
 </description>
-    <lastBuildDate>Thu, 26 Mar 2020 23:27:14 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 23:16:53 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -43,6 +43,45 @@
     </image>
     
     
+    
+      
+        
+        
+          <item>
+            <title>Algo más que mota - Trailer</title>
+            <link>https://irazu.cartuanis.com/2020/03/27/trailer.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://irazu.cartuanis.com/players/trailer"/>
+            <comments>https://irazu.cartuanis.com/2020/03/27/trailer.html#disqus_thread</comments>
+            <pubDate>Fri, 27 Mar 2020 00:00:00 -0600</pubDate>
+            
+            <guid isPermaLink="false">https://irazu.cartuanis.com/2020/03/27/trailer.html</guid>
+            <description><![CDATA[
+]]></description>
+            <content:encoded><![CDATA[
+]]></content:encoded>
+            
+            <enclosure url="https://irazu.cartuanis.com/episodes/ocp00.mp3" length="8038" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Trailer</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Irazu Growers</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>0:01:00</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:30.000" title="Outro." />
+              
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
     
       
     
@@ -78,7 +117,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://irazu.cartuanis.com/episodes/ocp001.mp3" length="8038" type="audio/mpeg" />
+            <enclosure url="https://irazu.cartuanis.com/episodes/ocp001.mp3" length="339382" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Que es algo mas que Mota?</itunes:subtitle>
             <itunes:summary></itunes:summary>
