@@ -10,16 +10,16 @@
   <channel>
     <title>Algo más que Mota</title>
     <link>https://irazu.cartuanis.com</link>
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://irazu.cartuanis.com/episodes0.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://irazu.cartuanis.com/episodes0.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://irazu.cartuanis.com/episodes0.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
     
     <description>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
 </description>
-    <lastBuildDate>Sun, 29 Mar 2020 21:56:16 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:01:21 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -78,7 +78,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://irazu.cartuanis.com/episodes/ocp001.mp3" length="521041" type="audio/mpeg" />
+            <enclosure url="https://irazu.cartuanis.com/episodes0/ocp001.mp3" length="521041" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Que es algo más que Mota</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -131,7 +131,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://irazu.cartuanis.com/episodes/lov.mp3" length="9599006" type="audio/mpeg" />
+            <enclosure url="https://irazu.cartuanis.com/episodes0/lov.mp3" length="9599006" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>prueba</itunes:subtitle>
             <itunes:summary></itunes:summary>
