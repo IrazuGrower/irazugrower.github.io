@@ -12,6 +12,18 @@
    "url": null
  },
  "items": [
+   {"id": "fe0253e6",
+    "title": "Intro",
+    "summary": "",
+    "content_text": "TrailerTe presentamos Algo más que Mota el primer podcast acerca de la marihuana en Costa Rica",
+    "content_html": "<h2 id=\"trailer\">Trailer</h2><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://irazu.cartuanis.com/episodes/intro.mp3\"},\"coverUrl\":\"https://irazu.cartuanis.com/img/logo-360x360.png\",\"title\":\"Intro\",\"subtitle\":\"Trailer\",\"url\":\"https://irazu.cartuanis.com/2020/03/30/Intro.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://irazu.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"te-presentamos-algo-más-que-mota-el-primer-podcast-acerca-de-la-marihuana-en-costa-rica\">Te presentamos Algo más que Mota el primer podcast acerca de la marihuana en Costa Rica</h2>",
+    "url": "https://irazu.cartuanis.com/2020/03/30/Intro.html",
+    "date_published": "2020-03-30T00:00:00-06:00",
+    "date_modified": "2020-03-30T00:00:00-06:00",
+    "author": {
+      "name": "Irazu Growers"
+    }
+  },
    {"id": "faec0fc4",
     "title": "Bienvenido a Irazu Growers",
     "summary": "",
@@ -22,30 +34,6 @@
     "date_modified": "2020-03-21T19:08:45-06:00",
     "author": {
       "name": ""
-    }
-  },
-   {"id": "aaca13a7",
-    "title": "Episode 1",
-    "summary": "",
-    "content_text": "Que es algo más que MotaShownotes and Links  Note",
-    "content_html": "<h2 id=\"que-es-algo-más-que-mota\">Que es algo más que Mota</h2><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://irazu.cartuanis.com/episodes/ocp001.mp3\"},\"coverUrl\":\"https://irazu.cartuanis.com/img/logo-360x360.png\",\"title\":\"Episode 1\",\"subtitle\":\"Que es algo más que Mota\",\"url\":\"https://irazu.cartuanis.com/2020/03/20/Episode-1.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://irazu.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><ul>  <li>Note</li></ul>",
-    "url": "https://irazu.cartuanis.com/2020/03/20/Episode-1.html",
-    "date_published": "2020-03-20T00:00:00-06:00",
-    "date_modified": "2020-03-20T00:00:00-06:00",
-    "author": {
-      "name": "Cala y sus compas"
-    }
-  },
-   {"id": "8b193aac",
-    "title": "Episode 0",
-    "summary": "",
-    "content_text": "pruebaShownotes and Links  Note",
-    "content_html": "<h2 id=\"prueba\">prueba</h2><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://irazu.cartuanis.com/episodes/lov.mp3\"},\"coverUrl\":\"https://irazu.cartuanis.com/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"prueba\",\"url\":\"https://irazu.cartuanis.com/2020/03/20/Episode-0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://irazu.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><ul>  <li>Note</li></ul>",
-    "url": "https://irazu.cartuanis.com/2020/03/20/Episode-0.html",
-    "date_published": "2020-03-20T00:00:00-06:00",
-    "date_modified": "2020-03-20T00:00:00-06:00",
-    "author": {
-      "name": "Cala y sus compas"
     }
   }]
 }
