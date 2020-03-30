@@ -8,40 +8,42 @@
      version="2.0">
 
   <channel>
-    <title>Algo más que Mota</title>
-    <link>https://irazu.cartuanis.com</link>
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <title>irazu Growers</title>
+    <link>https://irazugrowers.github.io</link>
+    <atom:link href="https://irazugrowers.github.io/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://irazugrowers.github.io/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://irazugrowers.github.io/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
     
-    <description>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
+    <description>Cala y sus compas te cuenta todo lo que debe saber acerca del autocultivo en Costa Rica.
 </description>
-    <lastBuildDate>Mon, 30 Mar 2020 00:01:21 -0600</lastBuildDate>
-    <language>en-gb</language>
-    <generator>Jekyll-Octopod 0.9.14</generator>
+    <lastBuildDate>Mon, 23 Mar 2020 03:29:40 -0600</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.12</generator>
 
-    <itunes:summary>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
+    <itunes:summary>Cala y sus compas te cuenta todo lo que debe saber acerca del autocultivo en Costa Rica.
 </itunes:summary>
-    <itunes:author>Irazu Growers</itunes:author>
+    <itunes:author>Cala y sus compas</itunes:author>
     <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="https://irazu.cartuanis.com/img/logo-itune.jpg" />
+    <itunes:image href="https://irazugrowers.github.io/img/logo-itunes.jpg" />
     <itunes:owner>
-      <itunes:name>Irazu Growers</itunes:name>
+      <itunes:name>Cala y sus compas</itunes:name>
       <itunes:email>irazugrower@gmail.com</itunes:email>
     </itunes:owner>
-    <managingEditor>irazugrower@gmail.com (Irazu Growers)</managingEditor>
+    <managingEditor>irazugrower@gmail.com (Cala y sus compas)</managingEditor>
     <copyright>CC BY 4.0</copyright>
-    <itunes:subtitle></itunes:subtitle>
-    <itunes:keywords></itunes:keywords>
+    <itunes:subtitle>Autocultivo  CR</itunes:subtitle>
+    <itunes:keywords>Autocultivo</itunes:keywords>
     <image>
-      <title>Algo más que Mota</title>
-      <url>https://irazu.cartuanis.com/img/logo-itune.jpg</url>
-      <link>https://irazu.cartuanis.com</link>
+      <title>irazu Growers</title>
+      <url>https://irazugrowers.github.io/img/logo-itunes.jpg</url>
+      <link>https://irazugrowers.github.io</link>
     </image>
     
+    <itunes:category text="Home ; Garden" />
+    
     
     
       
@@ -50,14 +52,14 @@
         
         
           <item>
-            <title>Episode 1 - Que es algo más que Mota</title>
-            <link>https://irazu.cartuanis.com/2020/03/20/Episode-1.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://irazu.cartuanis.com/players/Episode´-1"/>
-            <comments>https://irazu.cartuanis.com/2020/03/20/Episode-1.html#disqus_thread</comments>
+            <title>Episode 1 - Lets Dance</title>
+            <link>https://irazugrowers.github.io/2020/03/20/Episode-1.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://irazugrowers.github.io/players/Episode-1"/>
+            <comments>https://irazugrowers.github.io/2020/03/20/Episode-1.html#disqus_thread</comments>
             <pubDate>Fri, 20 Mar 2020 00:00:00 -0600</pubDate>
             
-            <guid isPermaLink="false">https://irazu.cartuanis.com/2020/03/20/Episode-1.html</guid>
-            <description><![CDATA[<h2 id="que-es-algo-más-que-mota">Que es algo más que Mota</h2>
+            <guid isPermaLink="false">https://irazugrowers.github.io/2020/03/20/Episode-1.html</guid>
+            <description><![CDATA[<h2 id="lets-dance">Lets Dance</h2>
 
 
 
@@ -67,7 +69,7 @@
   <li>Note</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<h2 id="que-es-algo-más-que-mota">Que es algo más que Mota</h2>
+            <content:encoded><![CDATA[<h2 id="lets-dance">Lets Dance</h2>
 
 
 
@@ -78,62 +80,9 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://irazu.cartuanis.com/episodes/ocp001.mp3" length="521041" type="audio/mpeg" />
+            <enclosure url="https://irazugrowers.github.io/episodes/ocp001.mp3" length="10690582" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Que es algo más que Mota</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Cala y sus compas</itunes:author>
-            <itunes:explicit>yes</itunes:explicit>
-            <itunes:duration>0:00:21</itunes:duration>
-            
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-            </psc:chapters>
-            
-            
-            
-          </item>
-        
-      
-    
-      
-        
-        
-          <item>
-            <title>Episode 0 - prueba</title>
-            <link>https://irazu.cartuanis.com/2020/03/20/Episode-0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://irazu.cartuanis.com/players/Episode-0"/>
-            <comments>https://irazu.cartuanis.com/2020/03/20/Episode-0.html#disqus_thread</comments>
-            <pubDate>Fri, 20 Mar 2020 00:00:00 -0600</pubDate>
-            
-            <guid isPermaLink="false">https://irazu.cartuanis.com/2020/03/20/Episode-0.html</guid>
-            <description><![CDATA[<h2 id="prueba">prueba</h2>
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2 id="prueba">prueba</h2>
-
-
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-]]></content:encoded>
-            
-            <enclosure url="https://irazu.cartuanis.com/episodes/lov.mp3" length="9599006" type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>prueba</itunes:subtitle>
+            <itunes:subtitle>Lets Dance</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Cala y sus compas</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
